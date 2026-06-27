@@ -1,1 +1,1 @@
-console.log("Student Management System Started");
+console.log("Dashboard Loaded");
