@@ -1,1 +1,1 @@
-console.log("Project Started");
+console.log("Student Management System Started");
