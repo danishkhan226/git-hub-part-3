@@ -25,22 +25,18 @@ It covers SQL execution flow, DDL and DML operations, joins, and best practices.
 
 ```text
 git-hub-part-3/
-│
-├── index.html
-├── style.css 
-├── app.js
-├── Screenshot
-├── 
-├── 
-├── 
-│
-├── screenshots/
-│   ├── /undo commands/
-│   │    │──amend/
-│   │    │──reset/
-│   │    │──restore/    
-│   ├── /cherry pick commands/
-│   └── /merge commands/
+|-- index.html
+|-- style.css
+|-- app.js
+|-- README.md
+`-- screenshots/
+    |-- undo commands/
+    |   |-- amend/
+    |   |-- reset/
+    |   `-- restore/
+    |-- cherry pick commands/
+    |-- merge commands/
+    `-- merge conflict/
 ```
 ---
 
