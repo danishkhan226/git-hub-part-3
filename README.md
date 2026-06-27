@@ -35,9 +35,12 @@ git-hub-part-3/
 ├── 
 │
 ├── screenshots/
-│   ├── /
-│   ├── /
-│   └── /
+│   ├── /undo commands/
+│   │    │──amend/
+│   │    │──reset/
+│   │    │──restore/    
+│   ├── /cherry pick commands/
+│   └── /merge commands/
 ```
 ---
 
